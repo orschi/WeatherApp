@@ -1,0 +1,56 @@
+body {
+  max-width: 750px;
+  border: 1px solid #babfc4;
+  border-radius: 4px;
+}
+h5 {
+  font-size: 18px;
+  text-align: center;
+}
+
+
+.location {
+  padding: 15px 25px;
+  text-align: center;
+  margin-top: 10px;
+}
+#border-box {
+  width: 500px;
+  border-radius: 4px;
+}
+.weather-current {
+  margin-top: 5px;
+  padding: 15px 20px;
+}
+.location-date {
+  font-size: 26px;
+  text-align: center;
+}
+.emoji {
+  font-size: 75px;
+  text-align: center;
+}
+.weather-current-details {
+  font-size: 32px;
+  text-align: center;
+}
+.temperature {
+  font-size: 36px;
+  text-align: center;
+}
+.footer {
+  text-align: center;
+  padding: 5px;
+  font-size: 12px;
+  margin-top: 10px;
+}
+.forecast {
+  margin-top: 25px;
+}
+.convert-link {
+  font-size: 16px;
+  align:top;
+
+  .current-time {
+    font-size:16px;
+  }
